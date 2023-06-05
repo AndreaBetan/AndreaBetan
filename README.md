@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi! I'm Andrea Betancourt 👋
+
+I'm passionate about the world of programming, that's why I'm doing the full stack development bootcamp with 4Geeks. I love design, due to this my main motivation is the creation of web and mobile applications.
+
+Languages and tools:
+
+- HTML
+- CSS
+- Javascript
+
+Connect me: [LinkedIn](https://www.linkedin.com/in/andre-betancourt/)
 
 <!--
 **AndreaBetan/AndreaBetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
