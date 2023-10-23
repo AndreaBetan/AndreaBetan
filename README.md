@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andrea Betancourt</h1>
-<h3 align="center">Full Stack Software Developer</h3>
+<h1 align="left">Hi 👋, I'm Andrea Betancourt</h1>
+<img align="center" alt="Andrea Betancourt Full Stack Software Developer" src="https://github.com/AndreaBetan/AndreaBetan/blob/main/img/Estelle%20Darcy%20(3).png">
 
 I'm a passionate software developer, focused on continually expanding my skills through hands-on experience and the execution of various projects. My main enthusiasm lies in creating dynamic, functional, captivating web applications that improve the user experience. This process not only allows me to master current technologies, but also stay ahead with new innovations.
 
